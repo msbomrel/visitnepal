@@ -1,0 +1,32 @@
+#boxes{
+	margin-top:20px;
+}
+.container{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#boxes .box{
+	float:left;
+    text-align:center;
+    justify-content: center;
+	width:30%;
+	padding:10px;
+}
+#column{
+    text-align: justify;
+
+}
+
+
+#boxes .box img{
+	width:250px;
+	height: 300px;
+}
+.title{
+    text-align: center;
+    color: crimson;
+    font-size: 30px;
+}
+

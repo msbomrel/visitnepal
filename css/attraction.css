@@ -1,0 +1,25 @@
+.post-container {
+    margin: 20px 20px 0 0;
+    overflow: auto;
+    -webkit-box-shadow: -1px 0px 5px -1px rgba(87,53,87,1);
+    -moz-box-shadow: -1px 0px 5px -1px rgba(87,53,87,1);
+    box-shadow: -1px 0px 5px -1px rgba(87,53,87,1);
+    padding: 5px 5px;
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    height: 300px;
+    width:400px;
+    display: block
+}
+.post-content {
+    padding: 5px 5px;
+    margin-left: 210px
+}
+.post-title {
+    font-weight: bold;
+    font-size: 200%
+}
+
